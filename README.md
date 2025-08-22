@@ -12,7 +12,7 @@ Develop and evaluate a machine learning model that can estimate a person's age f
 
 ---
 
-## Data
+## Datasets
 
 - **Labels**: `labels.csv`
 - **Images**: `final_files/`
@@ -22,7 +22,7 @@ Develop and evaluate a machine learning model that can estimate a person's age f
 ## Exploratory Data Analysis
 
 ### Dataset size
-- Total number of images
+- total Number of images
 - Age range
 
 ### Age distribution
@@ -33,8 +33,8 @@ Develop and evaluate a machine learning model that can estimate a person's age f
 Between 10 and 15 representative images of different ages are shown to give a general impression of the dataset.
 
 ### Observations
-- Variability in image quality
-- Uneven age distribution
+- Variability in image Quality
+- Uneven Age Distribution
 - Possible biases in the dataset
 
 ---
@@ -57,7 +57,7 @@ Between 10 and 15 representative images of different ages are shown to give a ge
 
 ## Checklist
 
-- Exploratory analysis
+- Exploratory Analysis
 - Data preparation
 - Model training and evaluation
 - Clear and structured documentation
@@ -73,3 +73,5 @@ Between 10 and 15 representative images of different ages are shown to give a ge
 - Seaborn
 - Matplotlib
 - Tensorflow
+
+---
